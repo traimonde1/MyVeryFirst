@@ -33,5 +33,7 @@ button {
   border: none;
   margin: 10px;
   cursor: pointer;
-  button:hover {color:purple;}
-}
+  }
+button:hover {
+  color:purple;
+  }
