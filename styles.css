@@ -35,5 +35,5 @@ button {
   cursor: pointer;
   }
 button:hover {
-  color:purple;
+  background-color: purple;
   }
