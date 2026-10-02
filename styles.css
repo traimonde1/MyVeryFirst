@@ -33,8 +33,9 @@ button {
   border: none;
   margin: 10px;
   cursor: pointer;
-  transition: background-color 5s;
+  transition: background-color 5s, font-size 5s;
   }
 button:hover {
   background-color: purple;
+  font-size: 20px;
   }
