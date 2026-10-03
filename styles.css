@@ -38,7 +38,7 @@ button {
   }
 button:hover {
   background-color: purple;
-  font-size: 5px;
+  font-size: 20px;
   }
 button:active {
   transform: scale(0.9);
